@@ -18,6 +18,7 @@ Project uses 3-tier architecture:
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers and Spring.
 <img src="img.png">
+
 # Technologies
 - Maven
 - JDK 11
