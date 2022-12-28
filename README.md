@@ -21,7 +21,7 @@ Project uses 3-tier architecture:
 2. Business logic tier -> handled by Service;
 3. Presentation tier -> handled by Controllers.
 
-A diagram of my models
+A diagram of models
 <img src="pictures/img.png">
 # Technologies
 - Maven
